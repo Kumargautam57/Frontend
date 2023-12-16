@@ -1,3 +1,8 @@
-DAY 1
-I have learn about selector with some of introduction on css.
+# Html and css
+learning html and css
+
+## Day1
+learn about html tag
+## Day2
+fuck you
 
