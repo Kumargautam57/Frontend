@@ -6,3 +6,8 @@ color: red;
     li:nth-child(2){
     color: red;
     }
+    /* attribute selector for multiple image */
+    img[src^="../images/"]{
+        border: 10px solid red;
+
+    }
