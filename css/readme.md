@@ -1,5 +1,7 @@
 # Html and css
 learning html and css
 
-## day1
+## Day1
 learn about html tag
+## Day2
+fuck you
