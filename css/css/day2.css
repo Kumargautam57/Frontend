@@ -1,0 +1,8 @@
+h1:hover{
+color: red;
+}
+
+    
+    li:nth-child(2){
+    color: red;
+    }

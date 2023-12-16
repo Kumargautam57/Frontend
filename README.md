@@ -2,7 +2,7 @@
 learning html and css
 
 ## Day1
-learn about html tag
+started to learn html and css with its setup and setting up github
 ## Day2
-fuck you
+learn something about pseudo selector.The selector with the highest precedence is id, second is class and the lowest is the lowest is tag
 
