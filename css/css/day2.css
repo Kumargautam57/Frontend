@@ -11,3 +11,19 @@ color: red;
         border: 10px solid red;
 
     }
+
+.fast{
+        color:brown;
+        background-color:aqua;
+    }
+    .fast1{
+        color:blueviolet;
+    }
+    #para-text{
+        color: chartreuse;
+    }
+    /* body{
+        background: url("link of an image")
+        
+        */
+   
