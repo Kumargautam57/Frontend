@@ -26,4 +26,27 @@ color: red;
         background: url("link of an image")
         
         */
+   #imag{
+    
+    margin: 20px;
    
+    
+    height: 10px;
+    width: 10%;
+    background-size: cover;
+    background:red;
+    align-content: end;
+    
+   }
+
+.div-1{
+    border: 2px solid black;
+    /* background: linear-gradient(to right, blue, green, red); */
+    /* background: linear-gradient(to top, blue, green, red); */
+    background: radial-gradient(circle, red 20%,blue 40%,yellow 50%);
+    height: 500px;
+    width: 70%;
+    
+    
+}
+
