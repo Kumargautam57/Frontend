@@ -15,6 +15,7 @@ color: red;
 .fast{
         color:brown;
         background-color:aqua;
+        font-weight: 700;
     }
     .fast1{
         color:blueviolet;
@@ -48,5 +49,11 @@ color: red;
     width: 70%;
     
     
+}
+body{
+ 
+   font-size: 20px;
+   text-align: justify;
+   font-family: sans-serif;
 }
 

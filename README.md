@@ -9,4 +9,5 @@ learn something about pseudo selector.The selector with the highest precedence i
 Types of color and some properties of background color
 ## Day4
 Absolute and relative unit.learn about gradient and types of unit. em,%,view height, view width.
-
+## Day5
+studies about inlcuding external font from internet and text manipultaion with font size width etc
