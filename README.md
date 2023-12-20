@@ -11,3 +11,5 @@ Types of color and some properties of background color
 Absolute and relative unit.learn about gradient and types of unit. em,%,view height, view width.
 ## Day5
 studies about inlcuding external font from internet and text manipultaion with font size width etc
+## dAY6
+Box model and changing font size in short and to continue in tomorrow
