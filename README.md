@@ -13,3 +13,5 @@ Absolute and relative unit.learn about gradient and types of unit. em,%,view hei
 studies about inlcuding external font from internet and text manipultaion with font size width etc
 ## dAY6
 Box model and changing font size in short and to continue in tomorrow
+## Day7
+studied about css border,margin padding float and display

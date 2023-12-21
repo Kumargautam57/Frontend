@@ -7,10 +7,10 @@ color: red;
     color: red;
     }
     /* attribute selector for multiple image */
-    img[src^="../images/"]{
-        border: 10px solid red;
+    /* img[src^="../images/"]{ */
+        /* border: 10px solid red; */
 
-    }
+    
 
 .fast{
         color:brown;
@@ -57,3 +57,17 @@ body{
    font-family: sans-serif;
 }
 
+#new-img{
+    height:300px;
+    width:60% ;
+    
+    border: 5px solid black ;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 30px;
+    padding-bottom: 40px;
+    background:gray;
+    margin: 40px;
+    float:none;
+    /* display: none; */
+}
