@@ -55,6 +55,7 @@ body{
    font-size: 20px;
    text-align: justify;
    font-family: sans-serif;
+   background-color:aquamarine;
 }
 
 #new-img{
@@ -70,4 +71,31 @@ body{
     margin: 40px;
     float: none;
     /* display: none; */
+}
+.container{
+    
+    display: flex;
+    margin: 10px;
+    /* revering  =flex-direction: column-reverse; */
+    flex-direction: row;
+    flex-wrap: wrap;
+    /* justify-content: center; */
+    /* justify-content: space-between; */
+    justify-content: space-around;
+    background-color: white;
+    align-items: baseline;
+}
+.container-item{
+    background: gray;
+    color:black;
+    font-size: 30px;
+    text-align: center;
+    width: 70px;
+    line-height: 50px;
+    margin: 10px;
+    height: 200px;
+    flex-direction: row;
+
+    
+
 }

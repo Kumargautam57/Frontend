@@ -15,3 +15,5 @@ studies about inlcuding external font from internet and text manipultaion with f
 Box model and changing font size in short and to continue in tomorrow
 ## Day7
 studied about css border,margin padding float and display
+# Day 8
+Flex box,content alignment and flex box order with some game on flexbox foggy
