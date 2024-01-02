@@ -17,3 +17,5 @@ Box model and changing font size in short and to continue in tomorrow
 studied about css border,margin padding float and display
 # Day 8
 Flex box,content alignment and flex box order with some game on flexbox foggy
+# Day 9
+Doing simple project of flex-box but still confused but keep on learing
